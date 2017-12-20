@@ -1,0 +1,19 @@
+{
+  "name": "promisir",
+  "version": "1.0.0",
+  "description": "Promisir will help you out with fulfilling your promises with all kinds of simple tools.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lpolaright/promisir.git"
+  },
+  "author": "Daniel Demidov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lpolaright/promisir/issues"
+  },
+  "homepage": "https://github.com/lpolaright/promisir#readme"
+}
